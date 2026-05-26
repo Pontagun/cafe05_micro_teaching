@@ -14,7 +14,7 @@ frame.place(relx=0.5, rely=0.5, anchor="center")
 cafe_label = tk.Label(
     frame, 
     text="Cafe 5", 
-    font=("Georgia", 156, "bold italic"), 
+    font=("Georgia", 56, "bold italic"), 
     fg="#F5E6CA",  # Warm cream/latte color
     bg="#2C1B18"
 )
