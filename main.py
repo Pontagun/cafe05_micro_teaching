@@ -4,7 +4,7 @@ import tkinter as tk
 root = tk.Tk()
 root.title("Cafe 5 Graphic")
 root.geometry("500x300")
-root.configure(bg="#2C1B18")  # Dark coffee brown background
+root.configure(bg="#111111")  # Dark coffee brown background
 
 # Create a container frame to center the text
 frame = tk.Frame(root, bg="#2C1B18")
